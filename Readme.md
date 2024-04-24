@@ -47,3 +47,5 @@ MySQL в системе уже установлен.
 <image src="young_animals.png" alt="Task 11">
 <p>Объединили все таблицы</p>
 <image src="Union all tables.png" alt="Task 12">
+
+<h3>Программный код заданий с 13 по 15 находится в папке Java</h> 
